@@ -1,0 +1,9 @@
+var name = 'liche';
+alert("often abbreviated as JS, is a programming \
+language that is one of the core technologies of \
+the World Wide Web, "+name+" alongside HTML and CSS. \
+As of 2022, 98% of websites use JavaScript on the client \
+side for webpage behavior, often "+name+" incorprating \
+third-party egoing libraries. All major web browsers have \
+a dedicated JavaScript egoing engine to execute the code on \
+users' "+name+" devices.");
